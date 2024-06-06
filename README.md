@@ -1,14 +1,6 @@
 ---
 license: openrail++
 library_name: diffusers
-tags:
-- text-to-image
-- diffusers-training
-- diffusers
-- lora
-- template:sd-lora
-- stable-diffusion-xl
-- stable-diffusion-xl-diffusers
 base_model: stabilityai/stable-diffusion-xl-base-1.0
 instance_prompt: a photo of TOK dog
 widget: []
